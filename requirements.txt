@@ -1,8 +1,9 @@
 # CUDA 11.1
-torch==1.8.1
-torchvision==0.9
+# PyTorch & Torchvision from kaggle env
+# torch==1.8.1
+# torchvision==0.9
 pyiqa
-mmcv-full==1.6.2
+# mmcv-full==1.6.2
 tqdm
 seaborn
 scikit-image
